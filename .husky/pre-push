@@ -1,0 +1,2 @@
+rspec --exclude-pattern "spec/systems/**/*_spec.rb, spec/codebase/codebase_spec.rb" --profile --format progress
+brakeman
